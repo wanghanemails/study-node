@@ -2,9 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59fc0cbe-2cd2-4136-a9e8-2ae42fb16d2d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sider/demo01/js/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sider/demo01/js/jquery-3.1.0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sider/demo01/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sider/teacher/images/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sider/teacher/images/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sider/teacher/images/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sider/teacher/images/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sider/teacher/images/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sider/teacher/images/example.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sider/teacher/images/example2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sider/demo2/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sider/phoneSiderDemo/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sider/phoneSiderDemo/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sider/phoneSiderDemo/js/jquery-1.11.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sider/phoneSiderDemo/js/jquery-3.1.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sider/teacher/demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sider/teacher/jquery-1.11.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sider/teacher/pageswitch.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sider/demo01/js/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sider/demo01/test.html" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sider/demo01/js/jquery-3.1.0.js" afterPath="$PROJECT_DIR$/sider/demo2/jquery-3.1.0.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Waterfall-flow" afterPath="$PROJECT_DIR$/Waterfall-flow" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="studys.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,33 +41,25 @@
     <favorites_list name="studys" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sider/demo01/test.html">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sider/phoneSiderDemo/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-26.958334">
-              <caret line="57" column="39" selection-start-line="57" selection-start-column="39" selection-end-line="57" selection-end-column="39" />
+            <state vertical-scroll-proportion="-4.72549">
+              <caret line="98" column="23" selection-start-line="98" selection-start-column="23" selection-end-line="98" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sider/demo01/js/index.js">
+        <entry file="file://$PROJECT_DIR$/sider/phoneSiderDemo/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.14018692">
-              <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jquery-3.1.0.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sider/demo01/js/jquery-3.1.0.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="0.61949265">
+              <caret line="301" column="33" selection-start-line="301" selection-start-column="33" selection-end-line="301" selection-end-column="33" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -60,8 +69,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -72,7 +81,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/sider/demo01/test.html" />
+        <option value="$PROJECT_DIR$/sider/demo01/teacher/pageswitch.js" />
+        <option value="$PROJECT_DIR$/sider/demo2/test.html" />
         <option value="$PROJECT_DIR$/sider/demo01/js/index.js" />
+        <option value="$PROJECT_DIR$/sider/phoneSiderDemo/index.html" />
+        <option value="$PROJECT_DIR$/sider/phoneSiderDemo/js/index.js" />
       </list>
     </option>
   </component>
@@ -146,32 +159,6 @@
               <option name="myItemId" value="sider" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demo01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="studys" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="studys" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sider" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demo01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -199,8 +186,14 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sider" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sider/demo2" />
+      <recent name="$PROJECT_DIR$/sider/demo01" />
       <recent name="$PROJECT_DIR$/sider/demo01/js" />
+      <recent name="$PROJECT_DIR$/sider/demo01/teacher" />
     </key>
   </component>
   <component name="RunManager">
@@ -260,9 +253,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20555556" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -304,7 +297,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sider/demo01/js/jquery-3.1.0.js">
+    <entry file="file://$PROJECT_DIR$/sider/phoneSiderDemo/js/jquery-3.1.0.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -312,19 +305,106 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sider/demo01/test.html">
+    <entry file="file://$PROJECT_DIR$/sider/phoneSiderDemo/js/jquery-1.11.2.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-26.958334">
-          <caret line="57" column="39" selection-start-line="57" selection-start-column="39" selection-end-line="57" selection-end-column="39" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sider/demo01/js/index.js">
+    <entry file="file://$PROJECT_DIR$/sider/demo2/jquery-3.1.0.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14018692">
-          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sider/demo2/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.4805193">
+          <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sider/teacher/images/1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sider/teacher/images/1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sider/teacher/images/2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sider/teacher/images/3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sider/teacher/images/4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sider/teacher/images/example.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sider/teacher/images/example2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sider/teacher/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="183" column="35" selection-start-line="183" selection-start-column="35" selection-end-line="183" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sider/teacher/pageswitch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="49" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="239" selection-end-column="11" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sider/teacher/jquery-1.11.2.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sider/phoneSiderDemo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.72549">
+          <caret line="98" column="23" selection-start-line="98" selection-start-column="23" selection-end-line="98" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sider/phoneSiderDemo/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61949265">
+          <caret line="301" column="33" selection-start-line="301" selection-start-column="33" selection-end-line="301" selection-end-column="33" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
