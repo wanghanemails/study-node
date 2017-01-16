@@ -10,12 +10,12 @@
      *
      *   jquery 框架开发分为两种一种直接在jquery源码下的如
      *
-     *   静态方法 蕾丝$.Ajax $.extends
+     *   静态方法 类似$.Ajax $.extends
      *   jQuery.myPlugin = function(){
      *   }
      *
      *
-     *   同态方法
+     *   动态方法
      *   $.fn.myPlugin = function (){
      *
      *   }
@@ -305,7 +305,7 @@
         loop : false,		//是否循环切换
         pagination : true,		//是否进行分页
         keyboard : true,		//是否触发键盘事件
-        direction : "vertical",		//滑动方向vertical,horizontal
+        direction : "horizontal",		//滑动方向vertical,horizontal
         callback : ""		//回调函数
     };
 
